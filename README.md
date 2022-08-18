@@ -1,4 +1,4 @@
-Software Engineer
+# Hello! :wave:
 
 I'm excited about Rust and TypeScript. 
 
